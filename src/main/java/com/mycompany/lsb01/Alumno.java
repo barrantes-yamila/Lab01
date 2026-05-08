@@ -101,4 +101,6 @@ public class Alumno {
     System.out.println("DNI: " + dni + " | NOMBRE: " + nombre + " | NIVEL: " + nivelSocioeconomico + " | TOTAL PAGAR: S/." 
             + montoPensionFinal);
     }
+    
+    // Cambio realizado en la rama desarrollo para la tarea.
 }
