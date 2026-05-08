@@ -9,7 +9,11 @@ package com.mycompany.lsb01;
  * @author Yamila
  */
 
+<<<<<<< HEAD
 // esto es MAIN
+=======
+//Esto es desarrollo
+>>>>>>> desarrollo
 public class Alumno {
     private String nombre;
     private String apellido;
