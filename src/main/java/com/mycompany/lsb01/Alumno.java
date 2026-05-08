@@ -8,6 +8,8 @@ package com.mycompany.lsb01;
  *
  * @author Yamila
  */
+
+//Esto es desarrollo
 public class Alumno {
     private String nombre;
     private String apellido;
