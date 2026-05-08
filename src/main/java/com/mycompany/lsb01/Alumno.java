@@ -97,9 +97,8 @@ public class Alumno {
     
     public void verDatos()
     {
-        calcular();
-        
-        System.out.println("DNI: " + dni + " | NOMBRE: " + nombre + 
-                           " | NIVEL: " + nivelSocioeconomico + " | TOTAL PAGAR: S/." + montoPensionFinal);
-                }
+    calcular();
+    System.out.println("DNI: " + dni + " | NOMBRE: " + nombre + " | NIVEL: " + nivelSocioeconomico + " | TOTAL PAGAR: S/." 
+            + montoPensionFinal);
+    }
 }

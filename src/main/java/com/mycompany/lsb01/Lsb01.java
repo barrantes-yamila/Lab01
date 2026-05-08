@@ -57,5 +57,6 @@ public class Lsb01 {
 
         System.out.println("--- RESULTADOS FINALES ---");
         objetoControl.listarEstudiantes();
+        
     }   
 }
