@@ -9,7 +9,7 @@ package com.mycompany.lsb01;
  * @author Yamila
  */
 
-// Línea modificada en MAIN
+// esto es MAIN
 public class Alumno {
     private String nombre;
     private String apellido;
