@@ -11,6 +11,6 @@ package com.mycompany.lsb01;
 public class Lsb01 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+
     }
 }
