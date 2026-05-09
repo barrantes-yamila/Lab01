@@ -26,6 +26,6 @@ public class ControladorAlumno {
                 e.verDatos();
             }
         }
-        
+        //feat: agregar método para calcular promedio de notas 
     }
 }
