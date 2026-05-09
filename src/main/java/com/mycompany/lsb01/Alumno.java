@@ -8,6 +8,9 @@ package com.mycompany.lsb01;
  *
  * @author Yamila
  */
+
+// esto es MAIN
+//Esto es desarrollo
 public class Alumno {
     private String nombre;
     private String apellido;
@@ -101,4 +104,7 @@ public class Alumno {
     System.out.println("DNI: " + dni + " | NOMBRE: " + nombre + " | NIVEL: " + nivelSocioeconomico + " | TOTAL PAGAR: S/." 
             + montoPensionFinal);
     }
+    
+    // Cambio realizado en la rama desarrollo para la tarea.
+    // Propuesta de cambio para el Pull Request
 }
