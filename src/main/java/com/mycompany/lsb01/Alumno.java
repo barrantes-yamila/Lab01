@@ -9,11 +9,8 @@ package com.mycompany.lsb01;
  * @author Yamila
  */
 
-<<<<<<< HEAD
 // esto es MAIN
-=======
 //Esto es desarrollo
->>>>>>> desarrollo
 public class Alumno {
     private String nombre;
     private String apellido;
@@ -109,4 +106,5 @@ public class Alumno {
     }
     
     // Cambio realizado en la rama desarrollo para la tarea.
+    // Propuesta de cambio para el Pull Request
 }
